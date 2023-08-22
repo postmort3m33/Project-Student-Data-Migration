@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\S_P_Assessment_Project\main.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\S_P_Assessment_Project\main.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\S_P_Assessment_Project\main.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+  roster.cpp
+C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\S_P_Assessment_Project\roster.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\S_P_Assessment_Project\roster.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  S_P_Assessment_Project.vcxproj -> C:\Users\jtouc\Desktop\WGU Stuff\All Course Files\S and P - Applications\S & P - Applications Project\ProjectAssessmentSolution1\Debug\S_P_Assessment_Project.exe
